@@ -1,0 +1,26 @@
+* {
+    color: purple;
+    font-family: Arial, sans-serif;
+}
+
+div {
+    border: 1px solid black;
+}
+
+.alert {
+    color: red;
+}
+
+#enlarge {
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+li,
+div {
+    text-transform: uppercase;
+}
+
+li {
+    text-align: center;
+}
